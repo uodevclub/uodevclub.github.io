@@ -44,26 +44,23 @@ tel: +34 8493-4893
 # Members information. Shown on About page.
 members:
   - name: Nathan Pointer
-    position: CEO
-    text: Lorem Ipsum is simply dummy text of the printing and typesetting industry.
+    text: Nathan is awesome, but she hasn't updated her bio yet. Oh no!
     img: team01.jpg
     social:
       - title: envelope #use for email address
-        url: nwpointer@gmail.com
+        url: mailto:nwpointer@gmail.com
       - title: twitter
         url: http://twitter.com/nwpointer
   - name: Jeff Bayes
-    position: Lead Designer
-    text: Lorem Ipsum is simply dummy text of the printing and typesetting industry.
+    text: Jeff is a senior in the UO CIS program. He has spent the last two summers interning at Azuqua in Seattle's Pioneer Square. He is a Dungeons and Dragons nerd, and enjoys lifting heavy objects.
     img: team02.jpg
     social:
       - title: envelope #use for email address
-        url: mailto:name@domain.com
+        url: mailto:jbayes@uoregon.edu
       - title: twitter
-        url: http://twitter.com/handle
+        url: http://twitter.com/jbayes92
   - name: Cody Hatfield
-    position: Lead Developer
-    text: Lorem Ipsum is simply dummy text of the printing and typesetting industry.
+    text: Cody is awesome, but she hasn't updated her bio yet. Oh no!
     img: team03.jpg
     social:
       - title: envelope #use for email address
@@ -71,8 +68,7 @@ members:
       - title: twitter
         url: http://twitter.com/handle
   - name: Hannah Ullen Smith
-    position: Lead Developer
-    text: Lorem Ipsum is simply dummy text of the printing and typesetting industry.
+    text: Hannah is awesome, but she hasn't updated her bio yet. Oh no!
     img: team04.jpg
     social:
       - title: envelope #use for email address
@@ -92,7 +88,7 @@ clients:
     img: client04.png
     
 # Short text about your company. Shown in footer on every page and also separately on Home and Contact page.
-about: "Our goal is to build a strong web development/design community at the University of Oregon, with members from all majors and academic disciplines."
+about: "The UO Dev Club exists to expose students to cutting-edge software development tools, teach industry best practices, and bring in outside speakers to broaden perspectives on the future of the software industry. Our goal is to ensure all of our members are equipped to succeed in their first job and beyond."
 
 # Testimonial content. Shown on Home and About page. 
 testimonial:

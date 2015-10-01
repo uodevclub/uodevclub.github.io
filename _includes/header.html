@@ -1,19 +1,31 @@
-<div id="headerwrap" style="max-height: 700px;;
+<div id="blue" style="margin-bottom:0px; background:#3CC544; padding-top:0px; margin-top:70px; padding-bottom:0px;">
+    <div class="container">
+        <div class="row">
+            <h4 style="color:white">NEXT MEETING: OCT 1st 6-7PM IN DESCHUTES 100</h4>
+        </div><!-- /row -->
+    </div> <!-- /container -->
+</div>
+
+<div id="headerwrap" style="max-height: 500px;;
     overflow: hidden;
-    box-shadow: inset 0px -3px 30px rgba(0,0,0,.1);">
+    box-shadow: inset 0px -3px 30px rgba(0,0,0,.1);
+    padding-top:20px;">
     <div class="container">
         <div class="row">
             <div class="col-lg-8 col-lg-offset-2">
                 <br><br>
-                <h1>Learn cool things and meet new people</h1>
-                <h4>Our goal is to build a strong web development/design community at the University of Oregon, with members from all majors and academic disciplines.</h4>	
+                <h1>Learn cool things and meet new people!</h1>
+                <h4>{ site.about }</h4>	
                 <br>
+                <a href="/welcome/" class="btn btn-theme">Sign In</a>
                 <a href="{{ "/about/" | prepend: site.baseurl }}" class="btn btn-theme">More Info</a>
+
+
                 <br><br>
 
             </div>
             <div class="col-lg-8 col-lg-offset-2 himg">
-                <!-- <img src="{{ "/assets/img/browser.png" | prepend: site.baseurl }}" class="img-responsive"> -->
+                <img src="{{ "/assets/img/devclubicon.png" | prepend: site.baseurl }}" class="img-responsive">
             </div>
         </div><!-- /row -->
     </div> <!-- /container -->
