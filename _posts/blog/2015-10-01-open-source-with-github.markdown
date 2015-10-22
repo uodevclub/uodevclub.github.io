@@ -5,8 +5,8 @@ date:       2015-10-01 18:00:00
 author:     "Cody Hatfield"
 categories:
 - blog
-img: post01.png 
-thumb: thumb01.png
+img: github-post.png 
+thumb: github-thumb.png
 ---
 
 The slides for this meeting are available to download [here](/assets/files/week1.pdf).
