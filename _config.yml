@@ -44,7 +44,7 @@ tel: +34 8493-4893
 # Members information. Shown on About page.
 members:
   - name: Nathan Pointer
-    text: Nathan is awesome, but she hasn't updated her bio yet. Oh no!
+    text: Nathan is awesome, but he hasn't updated his bio yet. Oh no!
     img: team01.jpg
     social:
       - title: envelope #use for email address
@@ -60,7 +60,7 @@ members:
       - title: twitter
         url: http://twitter.com/jbayes92
   - name: Cody Hatfield
-    text: Cody is awesome, but she hasn't updated her bio yet. Oh no!
+    text: Cody is awesome, but he hasn't updated his bio yet. Oh no!
     img: team03.jpg
     social:
       - title: envelope #use for email address
